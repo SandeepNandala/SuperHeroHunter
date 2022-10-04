@@ -8,16 +8,13 @@
 }
 body{
     background-image: url(src/marvel.jpg);
-    /* overflow: hidden; */
-    /* filter: blur(3px); */
-    /* opacity: 0.7; */
     background-attachment: fixed;
     background-position: center;
 }
 
 header
 {
-   /* position: absolute; */
+
    width: 100%;
    background-color: darkgrey !important;
    margin-bottom: 10px !important;
@@ -40,14 +37,6 @@ li
     height:40vh;
 }
 
-/* #super-hero-details
-{
-    border: 1px solid red;
-    margin-top: 20px;
-    padding: 1rem;
-    width: 50%;
-    height:100%;
-} */
 
 #super-hero-details h1,h3,p{
     padding: 10px;
